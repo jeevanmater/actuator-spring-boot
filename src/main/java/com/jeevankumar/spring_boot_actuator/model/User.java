@@ -13,4 +13,5 @@ public class User {
     private String name = "Jeevan Kumar";
     private String password = "jeevan123";
     private Integer age = 29;
+    private Double salary = 96000.00;
 }
