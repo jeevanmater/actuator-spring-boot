@@ -12,4 +12,5 @@ public class User {
     private String id = "id_123";
     private String name = "Jeevan Kumar";
     private String password = "jeevan123";
+    private Integer age = 29;
 }
